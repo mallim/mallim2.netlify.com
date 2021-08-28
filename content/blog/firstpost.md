@@ -1,15 +1,19 @@
 ---
 layout: blog
-title: 'First post'
-slug: 'firstpost'
-description: 'Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt.'
+title: First post Changed
+slug: firstpost
+description: Truly it was a great journey, and in it I met with many, whom to
+  know was to love; but whom never could I see again; for life has not space
+  enough; and each must do his duty to the security and well-being of the
+  Redoubt.
 tags:
-  [
-    { name: 'Svelte Kit', link: 'https://kit.svelte.dev/' },
-    { name: 'Tailwind', link: 'https://www.tailwindcss.com' },
-    { name: 'Markdown', link: 'https://www.markdownguide.org/' }
-  ]
-date: '3rd April 2021'
+  - name: Svelte Kit
+    link: https://kit.svelte.dev/
+  - name: Tailwind
+    link: https://www.tailwindcss.com
+  - name: Markdown
+    link: https://www.markdownguide.org/
+date: 3rd April 2021
 ---
 
 Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt. Yet, for all that I have set down, we travelled much, always; but there were so many millions, and so few years.
