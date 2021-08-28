@@ -1,14 +1,14 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: main # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow # Allows you to save drafts before publishing them
 media_folder: static/uploads # Media files will be stored in the repo under static/images/uploads
 public_folder: /uploads # The src attribute for uploaded media will begin with /images/uploads
 
 # Make sure to change these before publishing
-site_url: https://mallim-blog-uat.netlify.app/
-display_url: https://mallim-blog-uat.netlify.app/
-logo_url: https://via.placeholder.com/300x125?text=Example
+# site_url: https://mallim-blog-uat.netlify.app/
+# display_url: https://mallim-blog-uat.netlify.app/
+# logo_url: https://via.placeholder.com/300x125?text=Example
 
 collections:
   - name: "posts"
